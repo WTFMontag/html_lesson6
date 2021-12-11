@@ -30,7 +30,7 @@ a:hover{
 }
 
 /*-----------------------
-header
+main blocks
 -----------------------*/
 
 #wrapper{
@@ -153,7 +153,7 @@ header
 }
 
 /*---------------------
-logo navigation
+logo
 ----------------------*/
 
 .logo {
@@ -163,7 +163,7 @@ logo navigation
 }
 
 /*---------------------
-main blocks
+bottom menu
 ----------------------*/
 
 .bottom_menu{
@@ -212,9 +212,7 @@ main blocks
   -webkit-border-radius:5px 0px 0px 5px;
 }
 
-
 /* flyout navigation */
-
 
 #dropdown_nav .sub_nav{
   z-index: 4;
